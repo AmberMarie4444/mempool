@@ -21,14 +21,14 @@
     "express": "^4.19.2",
     "ejs": "^3.1.10",
     "node-fetch-commonjs": "^3.3.1",
-    "puppeteer": "^15.3.2",
+    "puppeteer": "^24.37.5",
     "puppeteer-cluster": "^0.23.0",
     "typescript": "~4.7.4"
   },
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^5.30.5",
-    "@typescript-eslint/parser": "^5.30.5",
-    "eslint": "^8.19.0",
+    "@typescript-eslint/eslint-plugin": "^8.56.0",
+    "@typescript-eslint/parser": "^8.56.0",
+    "eslint": "^10.0.1",
     "eslint-config-prettier": "^8.5.0",
     "prettier": "^2.7.1"
   }
